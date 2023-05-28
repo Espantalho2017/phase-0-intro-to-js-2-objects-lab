@@ -12,6 +12,7 @@ function updateEmployeeWithKeyAndValue(employee, key, value) {
 } ;
 
 updateEmployeeWithKeyAndValue() ;
+// invokes the function updateEmplyeeWithKeyAndValue
 
 
 function destructivelyUpdateEmployeeWithKeyAndValue(employee, key, value) {
